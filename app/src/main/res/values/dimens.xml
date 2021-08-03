@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_splash">20sp</dimen>
+
+    <!--Category listing screen-->
+    <dimen name="margin_horizontal_content_categories">15dp</dimen>
+    <dimen name="padding_vertical_content_row_categories">16dp</dimen>
+    <dimen name="padding_horizontal_content_row_categories">8dp</dimen>
+    <dimen name="width_grid_item_products">140dp</dimen>
+    <dimen name="margin_car_product_listing">8dp</dimen>
+    <dimen name="padding_content_product_listing_grid">10dp</dimen>
+    <dimen name="text_size_product_name_product_listing">14sp</dimen>
+    <dimen name="text_size_product_price_product_listing">12sp</dimen>
+    <dimen name="text_size_category_name">16sp</dimen>
+
+    <!--Product Details screen-->
+    <dimen name="margin_horizontal_content_product_details">20dp</dimen>
+    <dimen name="margin_horizontal_button_add_cart_product_detail_page">15dp</dimen>
+    <dimen name="margin_top_product_name_product_detail_page">20dp</dimen>
+    <dimen name="margin_top_product_price_product_detail_page">10dp</dimen>
+    <dimen name="text_size_product_name_detail_page">18sp</dimen>
+    <dimen name="text_size_product_price_detail_page">14sp</dimen>
+</resources>
